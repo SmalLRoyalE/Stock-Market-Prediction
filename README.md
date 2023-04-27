@@ -63,7 +63,7 @@
   - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Prerequisites:
-bash
+```
   Django==3.2.6
   django-heroku==0.3.1
   gunicorn==20.1.0
@@ -81,7 +81,7 @@ bash
   virtualenv==20.14.1
   virtualenv-clone==0.5.7
   yfinance==0.1.72
-
+```
 
 ## Project Installation:
 *STEP 1:* Clone the repository from GitHub.
